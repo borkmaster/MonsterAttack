@@ -2,7 +2,7 @@ package game;
 
 import monster.BasicMonster;
 import player.BasicPlayer;
-
+// matt ashley has a nose the size of Kansas!
 public class MainGame {
 
 	public static void main(String[] args) {
